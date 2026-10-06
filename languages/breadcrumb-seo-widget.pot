@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Breadcrumb SEO Widget for Elementor 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-05 20:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Yoast Breadcrumb"
+msgstr ""
+
+msgid "Rank Math Breadcrumb"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Hide Current Page?"
+msgstr ""
+
+msgid "Hides the title of the current page at the end of the breadcrumb."
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Breadcrumb Styles"
+msgstr ""
+
+msgid "Normal Text Color"
+msgstr ""
+
+msgid "Link Color"
+msgstr ""
+
+msgid "Link Color (Hover)"
+msgstr ""
+
+msgid "The Yoast SEO plugin must be active and the Breadcrumbs option enabled in the Yoast settings."
+msgstr ""
+
+msgid "The Rank Math SEO plugin must be active and the Breadcrumbs option enabled in the Rank Math settings."
+msgstr ""
